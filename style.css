@@ -1,0 +1,19 @@
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+		background-color:#e1e1e1;
+		gravity: center;
+      }
+      #map {
+	  margin: auto;
+		width: 50%;
+		border: 3px solid green;
+		padding: 0px;
+        height: 50%;
+		gravity: center;
+      }
+	  p{
+		margin-top: 1%;
+		text-align: center;
+	  }
