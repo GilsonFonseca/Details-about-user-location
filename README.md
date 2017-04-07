@@ -1,2 +1,2 @@
 # Details-about-user-location
-Locate the user using javascript and google's api
+the idea of this project is to obtain the location of an user using javascript.
